@@ -2,8 +2,8 @@ name: Rancher Documentation
 description: Documentation for Rancher
 
 
-URL: http://superseb.github.io/rancher.github.io
-baseurl: "http://superseb.github.io/rancher.github.io"
+URL: "rancher.github.io"
+baseurl: "http://superseb.github.io/"
 
 exclude: []
 
