@@ -3,7 +3,7 @@ description: Documentation for Rancher
 
 
 URL: http://superseb.github.io/rancher.github.io
-baseurl: ""
+baseurl: "rancher.github.io"
 
 exclude: []
 
